@@ -7,7 +7,7 @@ Sécurité Sociale (NIR) - Numéro d'Inscription au Répertoire national d'ident
 
 ## Télécharger !
 
-**Vous pouvez télécharger le programme ici : [Télécharger](https://github.com/GauGoth-Corp/calculateur-numero-de-securite-sociale/releases)**
+**Vous pouvez télécharger le programme ici : [Télécharger](https://github.com/GauGoth-Corp/calculateur-numero-de-securite-sociale/archive/refs/tags/v2.0.zip)**
 
 ### Installation
 
